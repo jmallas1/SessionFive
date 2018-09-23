@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"org.jrm.io","l":"Asker"},{"p":"us.jmallas1.enums","l":"EnumsMain"},{"p":"org.jrm","l":"Main"},{"p":"us.jmallas1.enums","l":"Teams"}]
