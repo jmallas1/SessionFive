@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"org.jrm.io","l":"Asker"},{"p":"us.jmallas1.enums","l":"EnumsMain"},{"p":"org.jrm","l":"Main"},{"p":"us.jmallas1.enums","l":"Teams"}]
+typeSearchIndex = [{"p":"org.jrm.io","l":"Asker"},{"p":"us.jmallas1.bignums","l":"BignumsMain"},{"p":"us.jmallas1.dates","l":"datesMain"},{"p":"us.jmallas1.enums","l":"EnumsMain"},{"p":"org.jrm","l":"Main"},{"p":"us.jmallas1.numwrappers","l":"numwrappersMain"},{"p":"us.jmallas1.enums","l":"Teams"}]
