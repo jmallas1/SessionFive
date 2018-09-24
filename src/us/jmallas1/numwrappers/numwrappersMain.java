@@ -2,6 +2,13 @@ package us.jmallas1.numwrappers;
 
 import org.jrm.io.Asker;
 
+/**
+ * Main class for numwrappers. Demonstrate the ability to determine what *kind* of number
+ * was passed at the command line. Full disclosure: Im not proud of this. I think there should
+ * be a better way to do this but I'll be dipped if I can think of it.
+ * @author Jared Mallas
+ * @version 1.0
+ */
 public class numwrappersMain
 {
     public static void main(String[] args)
@@ -29,7 +36,6 @@ public class numwrappersMain
                 catch(NumberFormatException nfeb)
                 {
                     // System.out.println("notaint");
-
                     try
                     {
                         theNumber = Short.parseShort(someString);
@@ -37,7 +43,6 @@ public class numwrappersMain
                     catch (NumberFormatException nfec)
                     {
                         // System.out.println("notashort");
-
                         try
                         {
                             theNumber = Long.parseLong(someString);
