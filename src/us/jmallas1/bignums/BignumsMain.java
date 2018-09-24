@@ -1,5 +1,10 @@
 package us.jmallas1.bignums;
 
+/**
+ * Main class to demonstrate math with big numbers
+ * @author Jared Mallas
+ * @version 1.0
+ */
 public class BignumsMain
 {
     public static void main(String[] args)
